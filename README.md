@@ -1,0 +1,2 @@
+# CMS-Application-using-php-and-mysql
+This CMS application is based on the dynamic application where admin can create new category. The new post can be added by the admin on the specified categories. For creating this application, I have used Bootstrap, HTML, CSS 3 and JavaScript for the front-end design. For handling with the database, I have PHP and MySQL along with AJAX and jQuery. There is an admin dashboard for the admin from where the admin can manage the specified operations. This is  a fully dynamic CMS where every content can be modified from the admin dashboard. 
