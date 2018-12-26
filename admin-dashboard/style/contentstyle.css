@@ -1,0 +1,9 @@
+.alert{
+			font-size: 13px;
+		}
+
+@media(max-width: 479px){
+	.content-section{
+		padding-left: 40px;
+	}
+}
